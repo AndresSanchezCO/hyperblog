@@ -1,0 +1,10 @@
+Esta es la historia de Andres Sanchez.
+Tiene 22 años.
+Hoy hablaremos de su vida.
+Su vida y obra maestra
+Hola
+<<<<<<< HEAD
+Pruebas de merge a master
+=======
+cabecera
+>>>>>>> 9f0de3b (Prueebas de la nueva rama cabecera)
